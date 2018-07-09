@@ -1,0 +1,432 @@
+<variable-element name="numEzFtcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzFtcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzFtcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzFtuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzFtuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzFtuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzNmcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzNmcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzNmcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzNmuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzNmuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzNmuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzMcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzMcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzMcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzMuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzMuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numEzMuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpFtcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpFtcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpFtcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpFtuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpFtuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpFtuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpNmcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpNmcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpNmcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpNmuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpNmuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpNmuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpMcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpMcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpMcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpMuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpMuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numIpMuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaFtcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaFtcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaFtcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaFtuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaFtuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaFtuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaNmcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaNmcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaNmcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaNmuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaNmuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaNmuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaMcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaMcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaMcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaMuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaMuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="numMaMuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzFtcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzFtcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzFtcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzFtuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzFtuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzFtuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzNmcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzNmcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzNmcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzNmuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzNmuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzNmuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzMcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzMcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzMcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzMuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzMuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatEzMuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpFtcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpFtcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpFtcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpFtuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpFtuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpFtuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpNmcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpNmcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpNmcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpNmuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpNmuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpNmuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpMcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpMcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpMcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpMuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpMuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatIpMuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaFtcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaFtcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaFtcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaFtuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaFtuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaFtuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaNmcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaNmcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaNmcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaNmuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaNmuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaNmuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaMcWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaMcNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaMcOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaMuWithin">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaMuNear">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>
+<variable-element name="tatMaMuOver">
+	<expression name="value" type="javascript">0</expression>
+	<property name="type">report</property>
+</variable-element>

@@ -1,0 +1,31 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:context="http://www.springframework.org/schema/context"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans     
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context 
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean id="docIdList" class="com.test.PrintingList">
+		<property name="printingList">
+			<list value-type="com.test.PrintingObject">
+	            <ref bean="obj1"/>
+	            <ref bean="obj2"/>
+	        </list>
+		</property>
+	</bean>
+	
+	<bean id="obj1" class="com.test.PrintingObjecgt">
+		<property name="documentClass" value="NewProposals"></property>
+		<property name="documentID" value="10100001"></property>
+		<property name="tmCode" value="DT1"></property>
+	</bean>
+	
+	<bean id="obj2" class="com.test.PrintingObjecgt">
+		<property name="documentClass" value="LooseMails"></property>
+		<property name="documentID" value="10000001"></property>
+		<property name="tmCode" value="DT2"></property>
+	</bean>
+
+
+</beans>
